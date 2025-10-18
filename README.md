@@ -2,7 +2,7 @@
 
 An operating system for the Hack computer built in the Jack language as part of the **Nand2Tetris** course.
 
-Implements core modules including memory management, math utilities, screen and keyboard drivers, and system I/O.
+Implements core modules including memory, math utilities, screen and keyboard drivers, and system I/O.
 
 ## Build and Run
 1. Open the Nand2Tetris IDE  
