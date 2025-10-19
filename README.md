@@ -7,7 +7,4 @@ Implements core modules including memory, math utilities, screen and keyboard dr
 ## Build and Run
 1. Open the Nand2Tetris IDE  
 2. Load and compile all `.jack` files  
-3. Run the generated `.vm` files in the VM Emulator  
-
-## License
-Educational use under the Nand2Tetris license.
+3. Run the generated `.vm` files in the VM Emulator
